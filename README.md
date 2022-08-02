@@ -5,6 +5,9 @@ Created with CodeSandbox
 
 This personal project gets the data from the Rick and Morty API https://rickandmortyapi.com/
 
+# Demo
+Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://csb-evhc07.netlify.app/)
+
 # Installation
 ```
 To run locally:
