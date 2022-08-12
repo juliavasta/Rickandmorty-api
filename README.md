@@ -18,7 +18,7 @@ This personal project gets the data from the Rick and Morty API https://rickandm
 * Responsive design
 
 # Some improvements to implement:
-* Axios or useQuery, Apollo Client.
+* Axios, useQuery, or Apollo Client.
 * TypeScript
 
 # Demo
