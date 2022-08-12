@@ -9,6 +9,7 @@ This personal project gets the data from the Rick and Morty API https://rickandm
 * React Hooks (useState, useEffect, useContext, useCallback, useMemo, useRef, useDebounce )
 * React Components
 * Fetch API
+* Context
 * Emotion - for styling
 * Search bar
 * Data Filtering
