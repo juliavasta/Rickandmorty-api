@@ -10,11 +10,11 @@ This personal project gets the data from the Rick and Morty API https://rickandm
 * React Components
 * Fetch API
 * Context
-* Emotion - for styling
 * Search bar
 * Data Filtering
 * Loadmore button
 * Routing and Dynamic Routing - React Router
+* Emotion - for styling
 * Responsive design
 
 # Some improvements to implement:
