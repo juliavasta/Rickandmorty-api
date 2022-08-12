@@ -5,8 +5,19 @@ Created with CodeSandbox
 
 This personal project gets the data from the Rick and Morty API https://rickandmortyapi.com/
 
+# The topics covered:
+* React Hooks (useState, useEffect, useContext, useCallback, useMemo, useRef, useDebounce )
+* React Components
+* Fetch API
+* Emotion - for styling
+* Search bar
+* Data Filtering
+* Loadmore button
+* Routing and Dynamic Routing - React Router
+
+
 # Demo
-Live view by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://csb-evhc07.netlify.app/)
+Live demo of the project by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://csb-evhc07.netlify.app/)
 
 # Installation
 ```
