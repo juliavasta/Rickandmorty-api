@@ -14,6 +14,7 @@ This personal project gets the data from the Rick and Morty API https://rickandm
 * Data Filtering
 * Loadmore button
 * Routing and Dynamic Routing - React Router
+* Responsive design
 
 
 # Demo
