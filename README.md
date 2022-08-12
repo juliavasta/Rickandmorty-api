@@ -17,6 +17,9 @@ This personal project gets the data from the Rick and Morty API https://rickandm
 * Routing and Dynamic Routing - React Router
 * Responsive design
 
+# Some improvements to implement:
+* Axios or useQuery, useSWR, Apollo Client.
+* TypeScript
 
 # Demo
 Live demo of the project by clicking the badge: [![Netlify Status](https://api.netlify.com/api/v1/badges/f9a7f8d3-58ca-44ed-a038-ae8d2efd31a5/deploy-status)](https://csb-evhc07.netlify.app/)
